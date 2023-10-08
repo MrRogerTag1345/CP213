@@ -9,12 +9,12 @@ The ## corresponds to either the assignment number or the lab number. (i.e 05)
 
 All assignment-related files will be found under the 
 ```
-\Assignments\A01\pate9130_{a##}\src\cp213 
+\Assignments\A##\pate9130_{a##}\src\cp213 
 ```
 
 ### Labs
 
 The lab-related files will be found under the 
 ```
-\Assignments\A01\pate9130_{l##}\src\cp213 
+\Assignments\L##\pate9130_{l##}\src\cp213 
 ```
